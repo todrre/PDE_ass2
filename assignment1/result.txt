@@ -1,0 +1,18 @@
+\begin{table}[h]
+\centering
+\begin{tabular}{|c|c|}
+\hline
+\textbf{Re} & \textbf{$x_{ra}$} \\
+\hline
+20 & 0.5714 \\
+50 & 1.0000 \\
+80 & 1.3571 \\
+110 & 1.5357 \\
+140 & 1.6071 \\
+170 & 1.6786 \\
+200 & 1.6786 \\
+\hline
+\end{tabular}
+\caption{Reynolds number and corresponding $x_{ra}$ values}
+\label{tab:re_xra}
+\end{table}
